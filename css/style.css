@@ -41,6 +41,7 @@ nav {
     margin-top: 10px;
     font-family: 'Dancing Script', cursive;
     float: right;
+    opacity: .4px;
 }
 
 nav li {
